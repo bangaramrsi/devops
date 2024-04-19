@@ -1,0 +1,6 @@
+hi this is shell script file
+
+#!/bin/bash
+
+echo good evening
+
